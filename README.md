@@ -8,7 +8,7 @@
  
 <!--  --------------------------------------------------- Introduction Section -------------------------------------------------------- -->
 <p align="center">
-  Hi, I'm Karma Gurung, full stack developer and graphic desiner from Nepal 
+  Hi, 👋 I'm Karma Gurung, full stack developer and graphic desiner from Nepal 
   <br>
   🔬Currently studying BSc(Hons) Computing in Softwarica College of IT & E-commerce
   <br>
