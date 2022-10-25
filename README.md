@@ -176,7 +176,9 @@
  
 <!--  --------------------------------------------------------------------------------------------------------------------------------------------------- -->
  
- <h4 align="center"> Every Programmer Day   </h4>
+ <h4 align="center"> Every Programmer Day  
+  <br>
+   <img src=" https://github.com/KarmaGurung75/KarmaGurung75/blob/main/ezgif.com-gif-maker.gif" width="100%">
+</h4>
 
-https://user-images.githubusercontent.com/63505288/197714621-be23d8f7-b672-4bc9-9375-73f15ea98c8b.mp4
 
