@@ -49,7 +49,7 @@
 <!-- --------------------------------------------------------------------------- Tools & Languages ----------------------------------------------------------------- -->
 <h2 align="center"> 🛠️ My Favorite Tools & Languages 🛠️ </h2>
 <br>
- <img src="https://github.com/KarmaGurung75/KarmaGurung/blob/main/image_processing20210918-17862-nvbxxl.gif" width="45%" align="right">
+ <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/image_processing20210918-17862-nvbxxl.gif" width="45%" align="right">
 
 
 <h4 align="left"> 👨‍💻 Programming Languages </h4>
