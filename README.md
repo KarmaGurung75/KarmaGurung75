@@ -1,6 +1,6 @@
 <!-- ---------------------------------------------- Welcome Section ----------------------------------------------------------- -->
 <h1 align="center">
-  Welcome to Karma Gurung's profile!
+  🙏 Welcome to Karma Gurung's profile! 🙏
   <br>
   <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/programmer.png" width="500px" height="380">
  </h1>
@@ -8,7 +8,7 @@
  
 <!--  --------------------------------------------------- Introduction Section -------------------------------------------------------- -->
 <p align="center">
-  Hi, 👋 I'm Karma Gurung, full stack developer and graphic desiner from Nepal 
+ 👋 Hi, I'm Karma Gurung, full stack developer and graphic desiner from Nepal 
   <br>
   🔬Currently studying BSc(Hons) Computing in Softwarica College of IT & E-commerce
   <br>
