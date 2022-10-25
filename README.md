@@ -176,9 +176,10 @@
  
 <!--  --------------------------------------------------------------------------------------------------------------------------------------------------- -->
  
- <h4 align="center"> Every Programmer Day  
+ <h1 align="center"> 🤦‍♂ Every Programmer Day 😫
   <br>
-   <img src=" https://github.com/KarmaGurung75/KarmaGurung75/blob/main/ezgif.com-gif-maker.gif" width="100%">
-</h4>
+  <br>
+   <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/ezgif.com-gif-maker.gif" width="70%">
+</h1>
 
 
