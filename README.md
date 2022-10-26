@@ -28,11 +28,9 @@
 <p align="center">
 <a href = "https://www.facebook.com/profile.php?id=100071678182462" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/karma_gurung_3/" alt="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.linkedin.com/in/karma-gurung-136b9723a/" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href = "https://np.linkedin.com/in/karma-gurung75?trk=profile-badge" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UC_fW14BpFORCaaA4GT5P7Gw" alt="Youtube"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "http://karma-gurung.com/" alt="Portfilo"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/></a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="karma-gurung75" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/karma-gurung75?trk=profile-badge">Karma Gurung</a></div>
-              
 </p>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
