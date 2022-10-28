@@ -40,7 +40,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Karmagurung75?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Karmagurung75?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Karmagurung75?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+   <a href="https://github.com/KarmaGurung75/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=karmagurung75&color=622164&labelColor=79277A&style=for-the-badge&logo=views&label=Visitors&logoColor=white"/>    
   </a>
 </p>
