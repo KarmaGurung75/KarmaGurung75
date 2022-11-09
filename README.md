@@ -4,7 +4,16 @@
   <br>
   <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/programmer.png" width="500px" height="380">
  </h1>
-<!--  --------------------------------------------------------------------------------------------------------------------------------- -->
+<!--  -------------------------------------------------------------------------------------------------------------
+
+
+          
+              
+    
+
+          
+        
+-------------------- -->
  
 <!--  --------------------------------------------------- Introduction Section -------------------------------------------------------- -->
 <p align="center">
@@ -101,6 +110,7 @@
     &#8287;&#8287;&#8287;
        <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pycharm.svg" alt="xd" width="30" height="30"/> </a>
     &#8287;&#8287;&#8287;
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pycharm.svg" alt="xd" width="30" height="30"/> </a>
 </p>
 <hr>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
