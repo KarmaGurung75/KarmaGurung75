@@ -108,9 +108,9 @@
     &#8287;&#8287;&#8287;
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a>
     &#8287;&#8287;&#8287;
-       <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pycharm.svg" alt="xd" width="30" height="30"/> </a>
+       <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pycharm.svg" alt="pycharm" width="30" height="30"/> </a>
     &#8287;&#8287;&#8287;
-    <a href="https://www.jetbrains.com/vscode/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vscode.svg" alt="xd" width="30" height="30"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="xd" width="30" height="30"/> </a>
 </p>
 <hr>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
