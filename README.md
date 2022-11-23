@@ -17,13 +17,11 @@
  
 <!--  --------------------------------------------------- Introduction Section -------------------------------------------------------- -->
 <p align="center">
- 👋 Hi, I'm Karma Gurung, full stack developer and graphic desiner from Nepal 
+ 👋 Hi, I'm Karma Gurung, full stack developer and UI/UX desiner from Nepal 
   <br>
   🔬Currently studying BSc(Hons) Computing in Softwarica College of IT & E-commerce
   <br>
   🎓 Graduated from Trinity International College  High School
-  <br>
-  📚 I’m currently learning Java and Spring boot
   <br>
   📫 How to reach me: <a href="mailto: karma1661@gmailcom">karma1661@gmail.com</a>
    <br>
