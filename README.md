@@ -131,7 +131,7 @@
   
   <div align=center>
     <a href="">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmagurung75&theme=react&show_icons=true&hide_border=false&layout=compact" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmagurung75&theme=react&bg_color=20232a&show_icons=true&hide_border=false&layout=compact" />
     </a>
   </div>
   <br>
