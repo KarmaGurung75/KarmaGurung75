@@ -131,7 +131,8 @@
   
   <div align=center>
     <a href="">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmagurung75&langs_count=8&count_private=false&layout=compact&theme=react&bg_color=20232a&show_icons=true&hide_border=false" /></a>
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmagurung75&count_private=true&layout=compact&theme=react&bg_color=20232a&show_icons=true&hide_border=false" /></a>
+ 
   </div>
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karmagurung75&theme=react&bg_color=20232a&hide_border=true" width="100%"/> 
