@@ -167,7 +167,7 @@
 
 <h3 align="left" >📘 Project I have Contribute </h3>
 <br>
-<a align="left" href="https://github.com/coder-dipesh/gharelu.git" title="Gharelu"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=coder-dipesh&repo=Gharelu&theme=react&border_color=61dafb&border_radius=10"></a>
+
   <a align="right" href="https://github.com/SanifKandel/Neptter.git" title="Neptter"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SanifKandel&repo=Neptter&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
