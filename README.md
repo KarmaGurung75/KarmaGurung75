@@ -184,11 +184,10 @@
  
 <!--  --------------------------------------------------------------------------------------------------------------------------------------------------- -->
  
- <h1 align="center"> 🤦‍♂ Every Programmer Day 😫
+ <h1 align="center"> 🤦‍♂ Every Programmer Day 😫 </h1>
   <br>
-  <br>
-    <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/image_processing20210918-17862-nvbxxl.gif" width="45%" align="right">
+    <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/image_processing20210918-17862-nvbxxl.gif" width="45%">
    <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/ezgif.com-gif-maker.gif" width="70%">
-</h1>
+
 
 
