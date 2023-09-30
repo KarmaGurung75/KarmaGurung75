@@ -173,7 +173,7 @@
   </div>
  <hr>
 
-<h2 align="center">  🤦‍♂ Every Programmer Day 😫 </h2>
+<h1 align="center">  🤦‍♂ Every Programmer Day 😫 </h1>
 <br>
  <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/ezgif.com-gif-maker.gif" width="100%" align="center">
 <!--  --------------------------------------------------------------------------------------------------------------------------------------------------- -->
