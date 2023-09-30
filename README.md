@@ -173,12 +173,9 @@
   </div>
  <hr>
 
- <h1 align="center">
-  🤦‍♂ Every Programmer Day 😫
-  <br>
-  <img src= "https://github.com/KarmaGurung75/KarmaGurung75/blob/main/image_processing20210918-17862-nvbxxl.gifg" width="500px" height="380">
- </h1>
-
+<h2 align="center">  🤦‍♂ Every Programmer Day 😫 </h2>
+<br>
+ <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/ezgif.com-gif-maker.gif" width="100%" align="center">
 <!--  --------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
