@@ -189,7 +189,7 @@
   <h1 align="center">
   🤦‍♂ Every Programmer Day 😫
   <br>
-  <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/ezgif.com-gif-maker.gif" width="70%" height="380">
+  <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/ezgif.com-gif-maker.gif" width="500px" height="380">
  </h1>
 
 
