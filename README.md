@@ -181,14 +181,21 @@
 </a>
   </div>
  <hr>
+
+
+ <h1 align="center">
+  🙏 Welcome to Karma Gurung's profile! 🙏
+  <br>
+  <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/programmer.png" width="500px" height="380">
+ </h1>
  
 <!--  --------------------------------------------------------------------------------------------------------------------------------------------------- -->
  
- <h1 align="center"> 🤦‍♂ Every Programmer Day 😫 
+ <h1 align="center"> 🤦‍♂ Every Programmer Day 😫 </h1>
   <br>
   <br>
    <img src="https://github.com/KarmaGurung75/KarmaGurung75/blob/main/ezgif.com-gif-maker.gif" width="70%" align="center">
- </h1>
+
 
 
 
